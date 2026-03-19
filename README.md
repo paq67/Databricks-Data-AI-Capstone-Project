@@ -216,8 +216,4 @@ Create a Job with the following task graph:
 - ✅ Run comparison across model types
 - ✅ Model loading from registry for inference
 
----
 
-## 👤 Author
-
-Adithya | Databricks Capstone 2026 | E-Commerce & Retail Domain
